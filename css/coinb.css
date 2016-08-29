@@ -1,0 +1,178 @@
+.container{
+	width:1200px;
+	margin:0 auto;
+	border:1px  solid  white;
+}
+.subnav	ul{
+	font-size:20px;
+	float:right;
+	text-align:center;
+	line-height:100px;
+	margin-right:50px;
+}
+.subnav ul li{
+	list-style:none;
+	display:inline-block;
+	padding:20px;
+}
+.banner{
+	height:619px;
+	background:url(../images/BG1.jpg);
+}
+.banner p{
+	text-indent:-2em;
+	font-size:30px;
+	position:relative;
+	top:200px;
+	left:600px;
+}
+.content1{
+	font-size:40px;
+	color:#ce2100;
+	background:#fdf3e9;
+	clear:left;
+}
+.main{
+	font-size:40px;
+	font-family:"楷体";
+	color:white;
+	text-align:center;
+}
+.content-a{
+	width:285px;
+	float: left;
+	height:440px;
+	background:url(../images/BG5.jpg)
+}
+.content-x{
+	float:left;
+	
+}
+.content img{
+	float: left;
+	margin-right: -200px;	
+}
+.content-c{
+		width:307px;
+		float:right;
+		height:440px;
+		background:url(../images/bg7.jpg);
+}
+.content-x p{
+	text-align:center;
+	font-size:21px;
+}
+.icon{
+	float:left;
+}
+.text{
+	font-size:23px;
+	color:red;
+	text-indent:2em
+}
+.font ol{
+	font-size:20px;
+	text-indent:2em;	
+}
+.font ul li{
+	list-style:none;
+	
+}
+.footer{
+		width:1200px;	
+		height:350px;
+		background:gray;
+}	
+.footer-font{
+		color:white;
+		font-size:30px;
+		text-align:center;
+}footer-font
+.content{
+		color:white;
+		font-size:22px;
+		font-weight:bolder;
+		margin:25px 0px 0px 100px;
+}
+	
+.people{
+		margin-top:30px;
+		margin-left:100px;
+		font:16px "微软雅黑";
+		color:white;
+		line-height:25px;
+}
+.border{
+		border-bottom:2px solid white;
+		width:150px;
+		margin-left:100px;
+		}
+	
+.tab{
+		margin-left:100px;
+		font:16px "微软雅黑";
+		color:white;
+		line-height:25px;
+}
+.border-nav{
+		border-bottom:2px solid white;
+		width:150px;
+		margin-left:100px;
+}
+.msg{
+		margin-left:100px;
+		font:16px "微软雅黑";
+		color:white;
+		line-height:25px;
+}
+.service{
+		color:white;
+		font-size:22px;
+		font-weight:bolder;
+		margin:-215px 0px 0px 450px;
+}
+.service-search{
+		font:18px "微软雅黑";
+		color:white;
+		margin:33px 0px 0px 450px;
+}
+.service-form{
+		font:18px "微软雅黑";
+		color:white;
+		margin:20px 0px 0px 450px;
+}
+.service-label input{
+		margin:20px 0px 0px 450px;
+		width:200px;
+		height:25px;
+}
+.service-button input{
+		margin:10px 0px 0px 450px;
+		width:200px;
+		height:25px;
+}
+.banner-label button{
+		width:60px;
+		height:25px;
+		background-color:white;
+		margin:10px 0px 0px 592px;
+		text-align:center;
+		border:1px solid white;
+}
+.download{
+		color:white;
+		font-size:22px;
+		font-weight:bolder;
+		margin:-247px 0px 0px 880px;
+}
+	
+.download-list{
+		font:18px "微软雅黑";
+		color:white;
+		margin:20px 0px 0px 880px;
+}
+.download-bottom{
+		font:16px "微软雅黑";
+		color:white;
+		margin:40px 0px 0px 880px;
+}

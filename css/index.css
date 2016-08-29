@@ -1,0 +1,95 @@
+﻿.container{
+	width:1200px;
+}
+.background{
+	width:1200px;
+	height:375px;
+	background:url(../images/background.png);
+}
+.background p{
+	font:50px "华文新魏";
+	color:yellow;
+}
+.background span{
+	font:bold 20px "宋体";
+	color:black;
+	line-height:50px;
+}
+.barnav{
+	width:1200px;
+	height:50px;
+	background-color:#9aa2dd;
+}
+.barnav p{
+	padding-left:10px;
+	font:bold 20px "宋体";
+	line-height:50px;
+}
+.hot{
+	width:1200px;
+	height:650px;
+	background:url(../images/bg5.png) no-repeat;
+
+}
+.demo-white{
+	width:200px;
+	height:200px;
+	transform:rotate(45deg);	
+	background-color:white;
+}
+.demo-white:hover{
+	background-color:#fdf3e9;
+}
+.demo-gray{
+	width:200px;
+	height:200px;
+	transform:rotate(45deg);	
+	background-color:#b5b7cf;
+}
+.demo-black{
+	width:200px;
+	height:200px;
+	transform:rotate(45deg);	
+	background-color:#757991;
+}
+.demo-white p{
+	float:left;
+	margin-left:-10px;
+	margin-top:30px;
+	font:25px "华文新魏";	
+	transform:rotate(-45deg);	
+}
+.demo-white p a{
+	color:#eba465;
+}
+.demo-white p a:hover{
+	color:blue;
+}
+.demo-white span{
+	width:100%;
+	height:50%;
+	padding-top:70px;
+	display:block;
+	font-size:15px;
+	text-align:center;
+	transform:rotate(-45deg);	
+}
+.demo-white span a{
+	color:black;
+}
+.demo-white span a:hover{
+	color:red;
+}
+.footernav{
+	width:1200px;
+	height:50px;
+	background-color:#d4d3e3;
+}
+.footernav p{
+	padding-left:10px;
+	font:bold 20px "宋体";
+	line-height:50px;
+}
+
+
+
